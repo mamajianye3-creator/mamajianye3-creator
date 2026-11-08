@@ -2,8 +2,7 @@
 
  About Me
 
-I am a student at Nanjing University
-Nanjing University of Information Science and Technology
+I am a student at Nanjing University of Information Science and Technology
 
 Research Interests
 
