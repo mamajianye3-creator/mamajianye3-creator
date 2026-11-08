@@ -1,16 +1,17 @@
-## Hi there 👋
+ Jianye Ma
 
-<!--
-**mamajianye3-creator/mamajianye3-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
 
-Here are some ideas to get you started:
+I am a student at Nanjing University
+of Information Science and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Interests
+
+- Vision-and-Language Navigation (VLN)
+- Embodied Intelligence
+- Robotics
+- Artificial Intelligence
+
+ Contact
+
+Email: 202612492765@nuist.edu.cn
